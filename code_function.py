@@ -1,3 +1,6 @@
 def function(x):
     local = 3
-	x^local
+    remote = 5
+	x^local+remote
+
+
