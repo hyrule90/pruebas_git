@@ -1,2 +1,3 @@
 def function(x):
-	x^3
+    local = 3
+	x^local
