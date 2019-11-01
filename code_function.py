@@ -1,2 +1,3 @@
 def function(x):
-	x^3
+	remote = 5
+	x^remote
